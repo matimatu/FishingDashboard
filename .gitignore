@@ -23,6 +23,7 @@ yarn-debug.log*
 yarn-error.log*
 
 /public/logo192.png
+/public/logo512.png
 /public/manifest.json
 /public/robots.txt
 
