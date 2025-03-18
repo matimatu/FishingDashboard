@@ -33,5 +33,5 @@ yarn-error.log*
 
 package-lock.json
 package.json
-
+README.md
 /.idea/inspectionProfiles/Project_Default.xml
